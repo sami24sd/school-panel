@@ -1,0 +1,1 @@
+{"name":"teacher-panel-runflare","version":"1.0.0","private":true,"type":"module","main":"server.mjs","engines":{"node":">=18"},"scripts":{"start":"node server.mjs"},"dependencies":{"ws":"^8.18.0"}}
